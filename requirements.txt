@@ -1,0 +1,16 @@
+click==8.1.3
+commonmark==0.9.1
+entrypoints==0.4
+gitdb==4.0.9
+GitPython==3.1.27
+gto==0.1.9
+pydantic==1.9.1
+Pygments==2.12.0
+rich==12.4.4
+ruamel.yaml==0.17.21
+ruamel.yaml.clib==0.2.6
+semver==3.0.0.dev3
+smmap==5.0.0
+tabulate==0.8.9
+typer==0.4.1
+typing_extensions==4.2.0
