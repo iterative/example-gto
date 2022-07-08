@@ -1,0 +1,10 @@
+churn:
+  path: models/churn.pkl
+  type: model
+  virtual: false
+cv-class:
+  path: s3://mycorp/proj-ml/classif-v2.pt
+  type: model
+segment:
+  path: s3://mycorp/proj-ml/segm-model-2022-04-15.pt
+  type: model
