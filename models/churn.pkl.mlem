@@ -1,0 +1,37 @@
+artifacts:
+  data.pkl:
+    hash: 2979af88eef40c69250d61efef3d94a0
+    size: 319
+    uri: churn.pkl
+model_type:
+  io:
+    type: pickle
+  methods:
+    __call__:
+      args:
+      - name: data
+        type_:
+          ptype: str
+          type: primitive
+      name: model
+      returns:
+        ptype: str
+        type: primitive
+    predict:
+      args:
+      - name: data
+        type_:
+          ptype: str
+          type: primitive
+      name: predict
+      returns:
+        ptype: str
+        type: primitive
+  type: callable
+object_type: model
+requirements:
+- is_package: false
+  module: __main__
+  name: __main__
+  source64zip: eJw1jkELwjAMhe/9FaGnDWSyq1B/hTeREFw2i2lX2m7ov7dd8V2SPN73iHVhjRnSNyll2+6EXTlmQPTkGBGMAY3oyHpEfVFQtJNsDKaCA8Vlv48PKIiw7/5WD1cYgSUxaL82QquDnngGt04s3USZ+lZZFTlv0bdsi9ZvBgp2SLRzd0An0MdM5+erpIfwFn2CRC4IYy00OuVo/VJc/mSOnsTc4sa9+gFtyExd
+  type: custom

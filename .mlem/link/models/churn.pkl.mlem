@@ -1,0 +1,3 @@
+link_type: model
+object_type: link
+path: models/churn.pkl.mlem
