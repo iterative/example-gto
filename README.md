@@ -38,3 +38,7 @@ To understand how this repo is generated, take a look at the
 [`example-gto/generate.sh` file](https://github.com/iterative/example-repos-dev/blob/add-gto-get-started/example-gto/generate.sh).
 To reproduce it locally, clone the repo, cd into `example-gto`, and run
 `bash generate.sh`.
+
+## To see MLEM in action
+
+...
